@@ -4,3 +4,11 @@ conanbuildinfo.props
 conanbuildinfo.txt
 conaninfo.txt
 graph_info.json
+
+# Visual studio files
+.vs/
+Debug/
+x64/
+x86/
+*.sln
+*.vcxproj*
