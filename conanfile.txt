@@ -1,0 +1,2 @@
+[requires]
+oatpp/1.2.0
